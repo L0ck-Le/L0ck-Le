@@ -1,6 +1,6 @@
-## Hi there, I'm Lock 👋
+## Hi there, I'm Lock 🔒
 - I'm a CSULB undergrad
-- I mainly use C++, C#, Java. But I also want to learn Python, HTML, CSS, and JavaScript.
+- I mainly use C++, C#, Java. But I also learning Python, HTML, CSS, and JavaScript.
 - I play video games and I have been trying to develop a game as well. It's fun developing games. 
 
 <!--
