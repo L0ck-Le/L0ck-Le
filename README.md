@@ -1,7 +1,7 @@
 ## Hi there, I'm Lock 🔒
 - I'm a CSULB undergrad
 - I mainly use C++, C#, Java. But I also learning Python, HTML, CSS, and JavaScript.
-- I play video games and I have been trying to develop a game as well. It's fun developing games. 
+- Planning to work in cybersecurity
 
 <!--
 **L0ck-Le/L0ck-Le** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
